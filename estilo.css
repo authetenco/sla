@@ -1,0 +1,84 @@
+*{margin: 0; padding: 0;
+font-family: 'Bangers', cursive;}
+
+body{
+  background-color: white;
+  width: 100%;
+  height: 200px
+}
+
+header{
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
+
+section{
+  width: 100%;
+  height: 990px;
+  background: #fff;
+  text-align: center;
+}
+
+form input{
+  width: 200px;
+  height: 80px;
+  background-color: black;
+  background-color: #00f3ff;
+  float: none;
+  font-family: 'Carter One',cursive;
+}
+
+form input:hover{
+ background: black;
+ color: #1ee600;
+ cursor: pointer;
+ border-bottom: 2px solid #fff;
+}
+
+h2{
+  height: 50px;
+  padding: 50px;
+  margin: 0px;
+  font-family: 'Bangers', cursive;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Bangers', cursive;
+}
+
+#Vitor{
+  text-align: center;
+}
+
+footer{
+  width: 100%;
+  color: #00f3ff;
+  text-align: center;
+  background: black;
+}
+
+a{
+  text-decoration: none;
+}
+
+nav{
+  background: black;
+}
+
+nav ul li{
+  background: #000;
+  color: #24EB01;
+  display: inline-block;
+  padding: 20px 60px;
+  margin: 20px 60px;
+  text-align: center;
+}
+
+nav ul li:hover{
+ background: black;
+ color: #24EB01;
+ cursor: pointer;
+ border-bottom: 2px solid #fff;
+}
