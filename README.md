@@ -1,2 +1,2 @@
 # sla
-: Lâmpada: cu
+:bulbo: cu
