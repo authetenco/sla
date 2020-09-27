@@ -1,2 +1,2 @@
 # sla
-:bulbo: cu
+:bulb: cu
